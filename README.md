@@ -56,8 +56,8 @@ Stops the TTL check interval, useful for cleaning up resources.
 ## Example
 
 ```typescript
-/** const Cache = require('tscache) */
-import Cache from 'tscache'
+/** const Cache = require('@farbautie/tscache) */
+import Cache from '@farbautie/tscache'
 
 const cache = new Cache()
 
